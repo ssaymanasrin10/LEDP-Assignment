@@ -1,0 +1,35 @@
+ td {
+  border: 2px solid black;
+width: 33.33%;
+text-align: center;
+}
+
+th{
+	border: 2px solid black;
+width: 33.33%;
+}
+
+ table{   
+ 	    width: 100%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+   
+   
+    text-align: justify;
+    margin-bottom: 35px;
+
+}
+.img{
+	margin: auto;
+	width: 100%;
+	background-size: cover;
+background-position: center;
+
+	
+}
+.container{
+	padding-right: 40px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
